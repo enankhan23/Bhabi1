@@ -1759,3 +1759,10 @@ section {
    color: #2acc80;
 }
 /* Custom Form */
+
+
+/* Custom home */
+.section-bg2 {
+  background: linear-gradient(0deg,red,#f7f8fa);
+}
+/* Custom home */
